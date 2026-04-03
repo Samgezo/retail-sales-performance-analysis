@@ -138,8 +138,27 @@ Projected Impact
 | Corporate segment strategy | Increase profit per customer   |
 
 
+Dashboard Preview
+
+![Sales Performance Dashboard](images/dashboard_preview.png)
+
+Dashboard Features
+
+- **4 KPI Cards** — Revenue, Profit, Margin %, and Total Orders at a glance
+
+- **Revenue Trend Line Chart** — Monthly view confirming Q4 seasonality spike
+
+- **Regional Profit Bar Chart** — Central region clearly identified as operating at a loss
+
+- **Category Donut Chart** — Technology leading in both revenue and profit
+
+- **Discount Impact Chart** — Visual proof of $135K loss above the 20% threshold
+
+- **Interactive Slicers** — Filter by Region, Year, and Category dynamically
+
+
 Repository Structure
-```
+
 Project-1-Retail-Sales-Analysis/
 │
 ├── data/
