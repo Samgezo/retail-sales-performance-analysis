@@ -142,6 +142,11 @@ Dashboard Preview
 
 ![Sales Performance Dashboard](images/dashboard_preview.png)
 
+> 📁 The full interactive Power BI file (`sales_dashboard.pbix`) 
+> is available in the `powerbi/` folder of this repository. 
+> Download and open in Power BI Desktop to interact with all 
+> slicers and filters.
+
 Dashboard Features
 
 - **4 KPI Cards** — Revenue, Profit, Margin %, and Total Orders at a glance
